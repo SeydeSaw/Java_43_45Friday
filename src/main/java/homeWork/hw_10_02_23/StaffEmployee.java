@@ -1,5 +1,5 @@
 package homeWork.hw_10_02_23;
-// класс штатоного сотрудника, который является наследником класса сотрудник
+// класс штатного сотрудника, который является наследником класса сотрудник
 public class StaffEmployee extends Employee{
     //создание конструктора для сотрудника:
     public StaffEmployee(String fullName, String position, double salary, Department department) {
