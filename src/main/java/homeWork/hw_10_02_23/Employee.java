@@ -1,11 +1,11 @@
 package homeWork.hw_10_02_23;
 
-public abstract class Employee {
+public class Employee {
     // Поля для ФИО, должности, оклада и отдела:
     private String fullName;
     private String position;
     private double salary;
-    private Department department;
+    private Department department;//организуем связь между Department и Employee
 
     // Создание конструктора для сотрудника:
     public Employee(String fullName, String position, double salary, Department department) {

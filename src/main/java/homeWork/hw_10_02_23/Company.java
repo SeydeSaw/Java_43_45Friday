@@ -5,6 +5,7 @@ public class Company {
 
 
     public Company() {// конструктор по умолчанию
+        this.name = "noname";
     }
 
     public Company(String name) {// конструктор с параметрами

@@ -5,6 +5,7 @@ public class Department {
     private String name;// поле для хранения названия отдела
     private int numberOfEmployees;// поле для хранения количества сотрудников отдела
     private Company company;// поле для хранения фирмы, к которой принадлежит отдел
+    //организуем связь между Department и Company
 
     public Department() {// конструктор по умолчанию
     }

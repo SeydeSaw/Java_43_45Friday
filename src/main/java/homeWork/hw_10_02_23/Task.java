@@ -15,4 +15,17 @@ public class Task {
         Штатный сотрудник и Сотрудник по контракту.
         Реализовать этот пункт с помощью наследования.
      */
+    //вызываем всё созданное ранее на консоль:
+public static void main(String[] args) {
+    //осздаём экзэмпляры классов:
+    Company apple = new Company("Apple");
+    Department security = new Department("Security", 66, apple);
+    Employee john = new Employee("John", "operator", 4000, security);
+
+    apple.setName("Apple");
+    System.out.println(john.getDepartment().getCompany().getName());
+
+    Department develop = new Department("Develop", 65, new Company("IBM"));
+
+    }
 }
