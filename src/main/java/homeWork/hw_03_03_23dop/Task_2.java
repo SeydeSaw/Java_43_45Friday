@@ -1,4 +1,4 @@
-package homeWork.hw_03_03_23;
+package homeWork.hw_03_03_23dop;
 /*todo Task2
     Пусть дан ArrayList нечетной длины.
     Используя только Iterator (не прибегая к индексам и длине списка),
