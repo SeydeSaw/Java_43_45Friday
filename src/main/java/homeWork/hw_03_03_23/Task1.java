@@ -3,7 +3,7 @@ package homeWork.hw_03_03_23;
 import java.util.ArrayList;
 import java.util.Collections;
 
-/*todo Task1
+/* todo Task1
     Даны два ArrayList, элементы которых упорядочены.
     Объединить их в трерий ArrayList,
     элементы которого тоже должны быть отсортированы.

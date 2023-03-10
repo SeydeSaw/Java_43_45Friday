@@ -21,7 +21,7 @@ import java.util.List;
 public class Task2 {
     public static void main(String[] args) {
         //создаем лист типа Integer
-        List<Integer> list = new ArrayList<>(Arrays.asList(1, 2, 3, 4, 5));
+        List<Integer> list = new ArrayList<>(Arrays.asList(5, 2, 3, 4, 5));
         printMiddleElement(list);
     }
     public static void printMiddleElement(List<Integer> list){

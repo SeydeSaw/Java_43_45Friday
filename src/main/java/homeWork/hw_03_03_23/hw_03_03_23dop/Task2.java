@@ -1,4 +1,4 @@
-package homeWork.hw_03_03_23dop;
+package homeWork.hw_03_03_23.hw_03_03_23dop;
 
 import java.util.ArrayList;
 import java.util.Arrays;
