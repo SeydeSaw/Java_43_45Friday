@@ -1,4 +1,4 @@
-package _10_02_23;
+package lessons._10_02_23;
 
 public class B extends A{
     public B(){

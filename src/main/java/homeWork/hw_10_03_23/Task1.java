@@ -63,6 +63,7 @@ public class Task1 {
 
         // Выводим списки nums и nums2 на экран
         System.out.println(nums);
+        System.out.println("");
         System.out.println(nums2);
 
         // Создаем новый список result, добавляя в него элементы из списков nums и nums2
@@ -71,7 +72,7 @@ public class Task1 {
         result.addAll(nums2);
 
         // Выводим список result на экран
-        System.out.println("*************");
+        System.out.println("");
         System.out.println(result);
     }
 }

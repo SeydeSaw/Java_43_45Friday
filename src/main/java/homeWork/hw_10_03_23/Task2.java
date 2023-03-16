@@ -45,7 +45,6 @@ public class Task2 {
                 singleNum = temp;
             }
         }
-
         System.out.println("Уникальный элемент: " + singleNum);
     }
 }

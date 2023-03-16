@@ -1,4 +1,4 @@
-package _17_02_23;
+package lessons._10_02_23._17_02_23;
 
 public class C extends A{
     @Override

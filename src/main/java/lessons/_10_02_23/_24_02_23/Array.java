@@ -1,4 +1,4 @@
-package _24_02_23;
+package lessons._10_02_23._24_02_23;
 
 import java.util.Random;
 import java.util.Scanner;
